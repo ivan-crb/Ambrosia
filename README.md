@@ -7,7 +7,8 @@ Ambrosia is a modern, smart meal planner for Android designed to simplify your w
 
 [![Latest release](https://img.shields.io/github/v/release/ivan-crb/Ambrosia?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/ivan-crb/Ambrosia?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/ivan-crb/Ambrosia/total?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/releases)
+<!--[![Github stars](https://img.shields.io/github/stars/ivan-crb/Ambrosia?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/ivan-crb/Ambrosia/total?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/releases)-->
 
 ## Features
 - **Dynamic Meal Planning**: Customize your meal schedule with fully flexible slots (Breakfast, Lunch, Dinner, Snacks). Add or remove slots to fit your daily routine.
