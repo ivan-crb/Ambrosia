@@ -1,3 +1,108 @@
 <resources>
     <string name="app_name">Ambrosia</string>
+
+    <!-- Navigation -->
+    <string name="nav_planner">Planner</string>
+    <string name="nav_shopping">Shopping</string>
+    <string name="nav_recipes">Recipes</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Planner -->
+    <string name="previous_week">Previous Week</string>
+    <string name="next_week">Next Week</string>
+    <string name="assign_recipe">Assign Recipe</string>
+    <string name="remove">Remove</string>
+    <string name="choose_recipe">Choose a Recipe for %1$s</string>
+    <string name="how_many_servings">How many servings?</string>
+    <string name="number_of_people">Number of people</string>
+    <string name="update_servings">Update servings</string>
+    <string name="cancel">Cancel</string>
+    <string name="assign">Assign</string>
+    <string name="update">Update</string>
+    <string name="templates">Templates</string>
+    <string name="save_template">Save as Template</string>
+    <string name="apply_template">Apply Template</string>
+    <string name="template_name">Template Name</string>
+    <string name="enter_template_name">Enter a name for your template</string>
+    <string name="select_template">Select a Template</string>
+    <string name="no_templates">No templates saved yet</string>
+
+    <!-- Shopping -->
+    <string name="shopping_list_empty">Shopping list is empty for this week</string>
+    <string name="group_by">Group by:</string>
+    <string name="alphabetical">Alphabetical</string>
+    <string name="category">Category</string>
+    <string name="to_buy">%1$s %2$s to buy</string>
+    <string name="total_required">(%1$s total)</string>
+    <string name="have">Have:</string>
+    <string name="delete">Delete</string>
+    <string name="clear_checked">Clear checked items</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_shopping_item">Add Shopping Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="amount">Amount</string>
+    <string name="unit">Unit</string>
+    <string name="add">Add</string>
+
+    <!-- Recipes -->
+    <string name="no_recipes">No recipes yet. Add your first one!</string>
+    <string name="no_recipes_found">No recipes found matching your search</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="servings_count">%1$d servings</string>
+    <string name="serves_count">Serves %1$d people</string>
+    <string name="search_recipes">Search recipes…</string>
+    <string name="tags">Tags</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="description_label">Description</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="steps_label">Steps</string>
+    <string name="edit_recipe">Edit Recipe</string>
+
+    <!-- Create/Edit Recipe -->
+    <string name="new_recipe">New recipe</string>
+    <string name="recipe_details">Recipe details</string>
+    <string name="basic_info">Basic Information</string>
+    <string name="recipe_name_req">Recipe Name (Mandatory)</string>
+    <string name="description_opt">Description (Optional)</string>
+    <string name="servings_req">Number of people to serve (Mandatory)</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="qty">Qty</string>
+    <string name="step_n">Step %1$d</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="update_recipe">Update Recipe</string>
+
+    <!-- Settings -->
+    <string name="preferences">Preferences</string>
+    <string name="default_servings">Default planning servings</string>
+    <string name="default_servings_desc">Suggested servings when adding meals</string>
+    <string name="start_of_week">Start of week</string>
+    <string name="visible_meal_slots">Visible meal slots</string>
+    <string name="add_slot">Add Slot</string>
+    <string name="add_new_slot">Add new meal slot</string>
+    <string name="slot_name_hint">Slot Name (e.g. Afternoon Tea)</string>
+    <string name="language_label">Language</string>
+    <string name="language_system">System</string>
+    <string name="language_english">English</string>
+    <string name="language_spanish">Spanish</string>
+    <string name="theme_mode">Theme mode</string>
+    <string name="app_version">App version: %1$s</string>
+
+    <!-- Categories -->
+    <string name="category_produce">Produce</string>
+    <string name="category_dairy">Dairy</string>
+    <string name="category_meat">Meat</string>
+    <string name="category_pantry">Pantry</string>
+    <string name="category_frozen">Frozen</string>
+    <string name="category_bakery">Bakery</string>
+    <string name="category_other">Other</string>
+    <string name="category_custom">Custom...</string>
+    <string name="new_category">New Category</string>
+    <string name="category_name">Category Name</string>
+
+    <!-- General -->
+    <string name="back">Back</string>
+    <string name="soon">Soon!</string>
 </resources>

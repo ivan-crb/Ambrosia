@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Ambrosia</string>
+
+    <!-- Navigation -->
+    <string name="nav_planner">Planificador</string>
+    <string name="nav_shopping">Compra</string>
+    <string name="nav_recipes">Recetas</string>
+    <string name="nav_stats">Estadísticas</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <!-- Planner -->
+    <string name="previous_week">Semana Anterior</string>
+    <string name="next_week">Semana Siguiente</string>
+    <string name="assign_recipe">Asignar Receta</string>
+    <string name="remove">Eliminar</string>
+    <string name="choose_recipe">Elige una Receta para %1$s</string>
+    <string name="how_many_servings">¿Cuántas raciones?</string>
+    <string name="number_of_people">Número de personas</string>
+    <string name="update_servings">Actualizar raciones</string>
+    <string name="cancel">Cancelar</string>
+    <string name="assign">Asignar</string>
+    <string name="update">Actualizar</string>
+    <string name="templates">Plantillas</string>
+    <string name="save_template">Guardar Plantilla</string>
+    <string name="apply_template">Aplicar Plantilla</string>
+    <string name="template_name">Nombre de la Plantilla</string>
+    <string name="enter_template_name">Introduce un nombre para tu plantilla</string>
+    <string name="select_template">Selecciona una Plantilla</string>
+    <string name="no_templates">No hay plantillas guardadas</string>
+
+    <!-- Shopping -->
+    <string name="shopping_list_empty">La lista de la compra está vacía esta semana</string>
+    <string name="group_by">Agrupar por:</string>
+    <string name="alphabetical">Alfabético</string>
+    <string name="category">Categoría</string>
+    <string name="to_buy">%1$s %2$s para comprar</string>
+    <string name="total_required">(%1$s total)</string>
+    <string name="have">Tengo:</string>
+    <string name="delete">Borrar</string>
+    <string name="clear_checked">Limpiar marcados</string>
+    <string name="add_item">Añadir</string>
+    <string name="add_shopping_item">Añadir artículo</string>
+    <string name="item_name">Nombre del artículo</string>
+    <string name="amount">Cantidad</string>
+    <string name="unit">Unidad</string>
+    <string name="add">Añadir</string>
+
+    <!-- Recipes -->
+    <string name="no_recipes">No hay recetas todavía. ¡Añade la primera!</string>
+    <string name="no_recipes_found">No se han encontrado recetas con tu búsqueda</string>
+    <string name="add_recipe">Añadir Receta</string>
+    <string name="servings_count">%1$d raciones</string>
+    <string name="serves_count">Para %1$d personas</string>
+    <string name="search_recipes">Buscar recetas…</string>
+    <string name="tags">Etiquetas</string>
+    <string name="add_tag">Añadir Etiqueta</string>
+    <string name="description_label">Descripción</string>
+    <string name="ingredients_label">Ingredientes</string>
+    <string name="steps_label">Pasos</string>
+    <string name="edit_recipe">Editar Receta</string>
+
+    <!-- Create/Edit Recipe -->
+    <string name="new_recipe">Nueva receta</string>
+    <string name="recipe_details">Detalles de la receta</string>
+    <string name="basic_info">Información básica</string>
+    <string name="recipe_name_req">Nombre de la receta (Obligatorio)</string>
+    <string name="description_opt">Descripción (Opcional)</string>
+    <string name="servings_req">Número de personas a servir (Obligatorio)</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="ingredient">Ingrediente</string>
+    <string name="qty">Cant.</string>
+    <string name="step_n">Paso %1$d</string>
+    <string name="save_recipe">Guardar Receta</string>
+    <string name="update_recipe">Actualizar Receta</string>
+
+    <!-- Settings -->
+    <string name="preferences">Preferencias</string>
+    <string name="default_servings">Raciones por defecto</string>
+    <string name="default_servings_desc">Raciones sugeridas al añadir comidas</string>
+    <string name="start_of_week">Inicio de la semana</string>
+    <string name="visible_meal_slots">Comidas visibles</string>
+    <string name="add_slot">Añadir Comida</string>
+    <string name="add_new_slot">Añadir nueva comida</string>
+    <string name="slot_name_hint">Nombre (ej. Merienda)</string>
+    <string name="language_label">Idioma</string>
+    <string name="language_system">Sistema</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_spanish">Español</string>
+    <string name="theme_mode">Modo de tema</string>
+    <string name="app_version">Versión de la app: %1$s</string>
+
+    <!-- Categories -->
+    <string name="category_produce">Fruta y Verdura</string>
+    <string name="category_dairy">Lácteos</string>
+    <string name="category_meat">Carnicería</string>
+    <string name="category_pantry">Despensa</string>
+    <string name="category_frozen">Congelados</string>
+    <string name="category_bakery">Panadería</string>
+    <string name="category_other">Otros</string>
+    <string name="category_custom">Personalizado...</string>
+    <string name="new_category">Nueva Categoría</string>
+    <string name="category_name">Nombre de la Categoría</string>
+
+    <!-- General -->
+    <string name="back">Atrás</string>
+    <string name="soon">¡Próximamente!</string>
+</resources>
