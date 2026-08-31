@@ -2,9 +2,9 @@
 
 Ambrosia is a modern, smart meal planner for Android designed to simplify your weekly cooking and shopping experience.
 
-[![Latest release](https://img.shields.io/github/v/release/ivan-crb/ambrosia?style=for-the-badge)](https://github.com/ivan-crb/ambrosia/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/ivan-crb/ambrosia?style=for-the-badge)](https://github.com/ivan-crb/ambrosia/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/ivan-crb/ambrosia/total?style=for-the-badge)](https://github.com/ivan-crb/ambrosia/releases)
+[![Latest release](https://img.shields.io/github/v/release/ivan-crb/Ambrosia?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/ivan-crb/Ambrosia?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/ivan-crb/Ambrosia/total?style=for-the-badge)](https://github.com/ivan-crb/Ambrosia/releases)
 
 ## Features
 - **Dynamic Meal Planning**: Customize your meal schedule with fully flexible slots (Breakfast, Lunch, Dinner, Snacks). Add or remove slots to fit your daily routine.
@@ -22,15 +22,15 @@ Ambrosia is a modern, smart meal planner for Android designed to simplify your w
 - [Android Studio Ladybug](https://developer.android.com/studio) or newer for building from source.
 
 ### Installation
-1. Download the latest `.apk` from the [Releases](https://github.com/IvanCM/Ambrosia/releases) page.
+1. Download the latest `.apk` from the [Releases](https://github.com/ivan-crb/Ambrosia/releases) page.
 2. Install the APK on your Android device (ensure "Install from unknown sources" is enabled).
 
 ### Building from Source
 ```bash
-git clone [https://github.com/IvanCM/Ambrosia.git](https://github.com/IvanCM/Ambrosia.git)
+git clone https://github.com/ivan-crb/Ambrosia.git
 cd Ambrosia
 ./gradlew assembleRelease
 ```
 
-## 📄 License
+## License
 Ambrosia is released under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for more details.
