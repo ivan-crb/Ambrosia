@@ -1,4 +1,7 @@
-# Ambrosia
+<div align="center">
+  <img src="app/src/main/ic_launcher-playstore.png" width="128" />
+  <h1>Ambrosia</h1>
+</div>
 
 Ambrosia is a modern, smart meal planner for Android designed to simplify your weekly cooking and shopping experience.
 
