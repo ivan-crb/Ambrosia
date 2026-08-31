@@ -2,6 +2,10 @@
 
 Ambrosia is a modern, smart meal planner for Android designed to simplify your weekly cooking and shopping experience.
 
+[![Latest release](https://img.shields.io/github/v/release/ivan-crb/ambrosia?style=for-the-badge)](https://github.com/ivan-crb/ambrosia/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/ivan-crb/ambrosia?style=for-the-badge)](https://github.com/ivan-crb/ambrosia/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/ivan-crb/ambrosia/total?style=for-the-badge)](https://github.com/ivan-crb/ambrosia/releases)
+
 ## Features
 - **Dynamic Meal Planning**: Customize your meal schedule with fully flexible slots (Breakfast, Lunch, Dinner, Snacks). Add or remove slots to fit your daily routine.
 - **Smart Shopping List**:
@@ -26,6 +30,7 @@ Ambrosia is a modern, smart meal planner for Android designed to simplify your w
 git clone [https://github.com/IvanCM/Ambrosia.git](https://github.com/IvanCM/Ambrosia.git)
 cd Ambrosia
 ./gradlew assembleRelease
+```
 
 ## 📄 License
 Ambrosia is released under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for more details.
